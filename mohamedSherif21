@@ -14,3 +14,7 @@
 14. git push origin --delete v1.4 #delete remotely
     git push origin :refs/tags/v1.4 #delete remotely
 15. git tag -d v1.4 #delete locally
+16. add create README.md file 
+17. fill info 
+18. get image into local repo and upload it into remote repo
+19. put image from remote repo link in the README.md file
