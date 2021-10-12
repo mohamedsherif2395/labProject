@@ -7,3 +7,10 @@
 7. git push origin main
 8. git branch -d dev # -d because it's merged
 9. git branch -D test # -D because it's unmerged
+10. sent invitation to repo from github
+11. git -a v1.4 -m "version 1.4"
+12. git push origin v1.4
+13. git tag
+14. git push origin --delete v1.4 #delete remotely
+    git push origin :refs/tags/v1.4 #delete remotely
+15. git tag -d v1.4 #delete locally
