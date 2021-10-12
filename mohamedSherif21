@@ -4,3 +4,6 @@
 4. touch file1 file2
 5. git checkout main
 6. git merge dev
+7. git push origin main
+8. git branch -d dev # -d because it's merged
+9. git branch -D test # -D because it's unmerged
