@@ -2,3 +2,5 @@
 2. git branch test
 3. git checkout dev
 4. touch file1 file2
+5. git checkout main
+6. git merge dev
