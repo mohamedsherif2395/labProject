@@ -1,0 +1,4 @@
+1. git branch dev 
+2. git branch test
+3. git checkout dev
+4. touch file1 file2
